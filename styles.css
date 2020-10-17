@@ -1,0 +1,49 @@
+p , h1, h2, h3 {
+    text-align: center;
+}
+
+h1 {
+    padding: 20px;
+}
+
+p em {
+    font-size: 20px;
+}
+
+em strong {
+    color: #FF0000;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+#banner {
+    width: 100%;
+}
+
+#missao {
+    font-size: 22px;
+}
+
+.itens {
+    font-size: 22px;
+    font-style: italic;
+}
+
+.principal {
+    background-color: #CCCCCC;
+    padding: 30px;
+}
+
+.beneficios {
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+
+.imagemdog {
+    width: 50%;
+}
